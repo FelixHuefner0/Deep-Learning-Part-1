@@ -1,0 +1,5 @@
+# Python >= 3.10. Install with: python -m pip install -r requirements.txt
+numpy>=1.26,<3
+matplotlib>=3.10,<4
+# Native interactive window; required for the default QtAgg backend.
+PySide6>=6.8,<7
